@@ -1,2 +1,2 @@
 # hello-world
-learn
+I'M Weirdo
